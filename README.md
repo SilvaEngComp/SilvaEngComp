@@ -54,19 +54,19 @@ img{
 <a href="https://github.com/SilvaEngComp" style="margin:10px; display:flex">
   <img align="center" alt="Eliabe-Angular" height="30" width="80" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 
-<img align="center" alt="Eliabe-Csharp" height="30" width="80" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
+<img align="center" alt="Eliabe-Ionic" height="30" width="80" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
 
-<img align="center" alt="Eliabe-Csharp" height="30" width="80" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img align="center" alt="Eliabe-Laravel" height="30" width="80" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 
-<img align="center" alt="Eliabe-Csharp" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img align="center" alt="Eliabe-Spring" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
-<img align="center" alt="Eliabe-Csharp" height="30" width="80" src=" https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img align="center" alt="Eliabe-Flask" height="30" width="80" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
-<img align="center" alt="Eliabe-Csharp" height="30" width="80" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img align="center" alt="Eliabe-Flutter" height="30" width="80" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
-<img align="center" alt="Eliabe-Csharp" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img align="center" alt="Eliabe-Bootstrap" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-<img align="center" alt="Eliabe-Csharp" height="30" width="80" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png">
+<img align="center" alt="Eliabe-Materializecss" height="30" width="80" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png">
 </a>
   </div>
 
@@ -74,11 +74,11 @@ img{
 
 <div align="center" style="display: grid; grid-template-rows: auto auto auto; grid-template-columns: auto">
 <a href="https://github.com/SilvaEngComp" style="margin:10px; display:flex">
-  <img align="center" alt="Eliabe-Angular" height="30" width="80" src=" https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Eliabe-Angular" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 <img align="center" alt="Eliabe-Csharp" height="30" width="80" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
-<img align="center" alt="Eliabe-Csharp" height="30" width="80" src=" https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img align="center" alt="Eliabe-Csharp" height="30" width="80" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
 <img align="center" alt="Eliabe-Csharp" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
