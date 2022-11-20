@@ -59,6 +59,10 @@ I have ever been in love with software development, for that reason I am not loc
 <img align="center" alt="Eliabe-Bootstrap" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 <img align="center" alt="Eliabe-Materializecss" height="30" width="80" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png">
+
+<img align="center" alt="Eliabe-Materializecss" height="30" width="80" src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white">
+
+<img align="center" alt="Eliabe-Materializecss" height="30" width="80" src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8">
 </a>
   </div>
 
