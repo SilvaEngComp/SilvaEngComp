@@ -2,14 +2,6 @@
 
 I have ever been in love with software development, for that reason I am not locked down for some technology. I love to hang out developing new solutions ether in rest and work moments, I point out my thirteen years of studding and my eight years of experience with several kind of technologies. That have gave me conditions to be able to work fast and with high quality, understanding the whole software context. It have made me able to bring about better project results.
 
-<style>
-
-img{
-    margin:5px;
-}
-
-</style>
-
 <div align="center" style="display: grid; grid-template-rows: auto auto auto; ">
   <a href="https://github.com/SilvaEngComp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilvaEngComp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -154,3 +146,11 @@ Cargo: Professor (Processamento de dados, introdução à ciência da
 Computação
 
 </div>
+
+<style>
+
+img{
+    margin:5px;
+}
+
+</style>
