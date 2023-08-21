@@ -1,6 +1,6 @@
-# Hi! My name is Eliabe Nascimento Silva, I am a Fullstak Senior Developer
+# Hi! My name is Eliabe Nascimento Silva, I'm a Fullstak Senior Software Developer
 
-I have ever been in love with software development, for that reason I am not locked down for some technology. I love to hang out developing new solutions ether in rest and work moments, I point out my thirteen years of studding and my eight years of experience with several kind of technologies. That have gave me conditions to be able to work fast and with high quality, understanding the whole software context. It have made me able to bring about better project results.
+My technology history have built with love and hard work. I love what I do and I have been spend much time to developer my skills. For me once of the best feeling is what I feal when I solve some challange and I start all over again. I'm 9 year expirienced in the main technologies nowadays and I what to spread my wings much more. I whish what I deliver in my Github help you to solve some problem. Follow me and get the future you whant!
 
 <div align="center" style="display: grid; grid-template-rows: auto auto auto; ">
   <a href="https://github.com/SilvaEngComp">
