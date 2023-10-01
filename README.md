@@ -151,10 +151,4 @@ Computação
 
 </div>
 
-<style>
 
-img{
-    margin:5px;
-}
-
-</style>
